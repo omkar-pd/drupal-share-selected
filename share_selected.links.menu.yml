@@ -1,0 +1,5 @@
+share_selected.settings_form:
+  route_name: share_selected.settings
+  title: 'Share Selected'
+  description: 'Configure Share Selected settings.'
+  parent: system.admin_config_ui

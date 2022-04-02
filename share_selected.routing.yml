@@ -1,0 +1,7 @@
+share_selected.settings:
+  path: '/admin/config/system/share_selected'
+  defaults:
+    _form: '\Drupal\share_selected\Form\ShareSeletectedSettings'
+    _title: 'Share Selected settings'
+  requirements:
+    _permission: 'administer'

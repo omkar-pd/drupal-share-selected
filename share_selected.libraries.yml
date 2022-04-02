@@ -1,0 +1,13 @@
+global:
+  version: 9.2.8
+  js:
+    https://unpkg.com/sharect@2.0.0/dist/sharect.js: {type: external}
+
+share:
+  version: 9.2.8
+  js:
+    js/script.js: {}
+  dependencies:
+    - core/drupalSettings
+    - share_selected/global
+

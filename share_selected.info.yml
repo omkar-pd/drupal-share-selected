@@ -1,0 +1,5 @@
+name: Share Selected
+type: module
+description: Share selected text with site url on social media sites.
+package: custom
+core_version_requirement: ^8 || ^9
